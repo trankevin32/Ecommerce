@@ -9,7 +9,7 @@ Getting started:
 5. For Mac, also do this:  https://medium.com/flawless-app-stories/gyp-no-xcode-or-clt-version-detected-macos-catalina-anansewaa-38b536389e8d
 6. Open the backend and frontend folders in separate VScode windows. 
 7. Run npm install in backend, then npm install in frontend. This should add node_module folder to each. 
-8. Update your MongoAtlas URL to backend app.js file.
+8. Update your MongoAtlas cluster URL to backend app.js file.
 9. Run npm start in backend, then npm start in frontend. Make sure chrome is open. Should automatically load webpage. 
 
 How To Add Products:
